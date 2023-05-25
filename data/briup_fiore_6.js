@@ -1,0 +1,1 @@
+var json_briup_fiore_6 = {"type":"FeatureCollection","name":"briup_fiore_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BriUp":"Dove nascono i fiori"},"geometry":{"type":"Point","coordinates":[9.323839288363482,45.701931559342228]}}]}
